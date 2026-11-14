@@ -1,0 +1,243 @@
+{
+  "title": "Gaurish Metha — media manifest",
+  "version": 1,
+  "reviewNotes": [
+    "Original files are preserved in PICS/; this manifest does not rename, alter, or move them.",
+    "Only images explicitly marked publishOnSite are used on the public-facing page.",
+    "Images were visually inspected. JPEG metadata was checked for GPS EXIF; none of the supplied images contained a GPS tag.",
+    "Browser screenshots, unrelated group photos, and redundant frames are retained locally but excluded; event photographs selected by Gaurish are explicitly approved for their matching archive entry.",
+    "Dates, placements, and project outcomes are only stated where supported by the supplied notes or visible evidence."
+  ],
+  "assets": [
+    {
+      "file": "A Photo Of me (more like a profile pic).jpg",
+      "mediaType": "image/jpeg",
+      "category": "personal",
+      "description": "Square close-up portrait of Gaurish.",
+      "alt": "Portrait of Gaurish",
+      "recommendedSection": "The person behind the projects",
+      "publishOnSite": true,
+      "notes": "Used as the about-section portrait."
+    },
+    {
+      "file": "Closeup Pic Of Me Getting Award During SIC Conclave.jpeg",
+      "mediaType": "image/jpeg",
+      "category": "achievements",
+      "description": "Gaurish and a teammate holding certificates with guests at an Indian School Muscat event.",
+      "alt": "Gaurish and his teammate receiving recognition with event guests at Indian School Muscat",
+      "recommendedSection": "Recognition",
+      "publishOnSite": true,
+      "notes": "Used for the SIC Conclave recognition entry."
+    },
+    {
+      "file": "Mail i got telling i won eurka dev.png",
+      "mediaType": "image/png",
+      "category": "achievements",
+      "description": "Screenshot of the EurekaDev project gallery showing AETHER among the listed project cards.",
+      "alt": "Screenshot documenting EurekaDev recognition",
+      "recommendedSection": "Achievements evidence archive",
+      "publishOnSite": false,
+      "notes": "Not used publicly; browser tabs and surrounding browsing context are visible."
+    },
+    {
+      "file": "Me Demonstratin During SIC Conclave.jpeg",
+      "mediaType": "image/jpeg",
+      "category": "achievements",
+      "description": "Gaurish and a teammate demonstrating a small exhibit during the SIC Conclave.",
+      "alt": "Gaurish and a teammate demonstrating an AETHER concept at the SIC Conclave",
+      "recommendedSection": "SIC Conclave",
+      "publishOnSite": true,
+      "notes": "Shown with the other SIC Conclave photographs; documents a presentation, not measured output."
+    },
+    {
+      "file": "me during Ai thon 2025 (classecho).jpg",
+      "mediaType": "image/jpeg",
+      "category": "competitions",
+      "description": "Gaurish with other students at the 2025 school AI Thon.",
+      "alt": "Gaurish with other students at the 2025 school AI Thon",
+      "recommendedSection": "AI Thon / ClassEcho",
+      "publishOnSite": true,
+      "notes": "Used only in the AI Thon 2025 / ClassEcho entry."
+    },
+    {
+      "file": "Me Getting Award During SIC Conclave.jpeg",
+      "mediaType": "image/jpeg",
+      "category": "achievements",
+      "description": "Gaurish and a teammate holding certificates at the SIC Conclave.",
+      "alt": "Gaurish and his teammate holding certificates at the SIC Conclave",
+      "recommendedSection": "SIC Conclave",
+      "publishOnSite": true,
+      "notes": "Included in the SIC Conclave photo archive at Gaurish's request."
+    },
+    {
+      "file": "Me giving newspaper to judges during SIC Conclave.jpeg",
+      "mediaType": "image/jpeg",
+      "category": "achievements",
+      "description": "Gaurish handing printed material to a seated judge at the SIC Conclave.",
+      "alt": "Gaurish handing printed material to a judge during the SIC Conclave",
+      "recommendedSection": "SIC Conclave",
+      "publishOnSite": true,
+      "notes": "Included in the SIC Conclave photo archive at Gaurish's request."
+    },
+    {
+      "file": "Me Giving The Judges Smthing During Presentation At SIC Conclave.jpeg",
+      "mediaType": "image/jpeg",
+      "category": "achievements",
+      "description": "Gaurish showing an exhibit to a judge during a presentation.",
+      "alt": "Gaurish showing an exhibit to a judge during a presentation",
+      "recommendedSection": "SIC Conclave",
+      "publishOnSite": true,
+      "notes": "Included in the SIC Conclave photo archive; no claim is made about what the exhibit demonstrates."
+    },
+    {
+      "file": "Me on School Auditorium Stage use this somewhere imp, looks very good).png",
+      "mediaType": "image/png",
+      "category": "competitions",
+      "description": "Gaurish speaking on a school auditorium stage; the large screen behind him displays AETHER.",
+      "alt": "Gaurish presenting the AETHER solar-window concept on stage at a school event",
+      "recommendedSection": "Opening experience",
+      "publishOnSite": true,
+      "notes": "Used as the hero image at the user's request."
+    },
+    {
+      "file": "Me Shaking Hands With Judges On Stage During SIC Conclave.jpeg",
+      "mediaType": "image/jpeg",
+      "category": "achievements",
+      "description": "Gaurish shaking hands with a judge on stage during the SIC Conclave.",
+      "alt": "Gaurish shaking hands with a judge on stage at the SIC Conclave",
+      "recommendedSection": "SIC Conclave",
+      "publishOnSite": true,
+      "notes": "Included in the SIC Conclave photo archive."
+    },
+    {
+      "file": "Me Speaking Ond Stage During SIC Conclave.jpeg",
+      "mediaType": "image/jpeg",
+      "category": "achievements",
+      "description": "Gaurish speaking on stage beside the AETHER presentation.",
+      "alt": "Gaurish speaking on stage beside the AETHER presentation",
+      "recommendedSection": "SIC Conclave",
+      "publishOnSite": true,
+      "notes": "Included in the SIC Conclave photo archive."
+    },
+    {
+      "file": "MEC Hackathon 1.jpg",
+      "mediaType": "image/jpeg",
+      "category": "competitions",
+      "description": "Students at the Middle East College Sustainability Hackathon.",
+      "alt": "Students at the Middle East College Sustainability Hackathon",
+      "recommendedSection": "Middle East College Sustainability Hackathon",
+      "publishOnSite": true,
+      "notes": "Used in the event section at the user's request."
+    },
+    {
+      "file": "MEC Hackathon.jpg",
+      "mediaType": "image/jpeg",
+      "category": "competitions",
+      "description": "Students at the Middle East College Sustainability Hackathon.",
+      "alt": "Students at the Middle East College Sustainability Hackathon",
+      "recommendedSection": "Middle East College Sustainability Hackathon",
+      "publishOnSite": true,
+      "notes": "Used in the event section at the user's request."
+    },
+    {
+      "file": "Pic Of Me After Competetion Hold Certificate And Cash prize of 75 OMR (SIC Conclave).jpeg",
+      "mediaType": "image/jpeg",
+      "category": "achievements",
+      "description": "Gaurish holding a certificate and the SIC Conclave cash prize, as identified by the filename.",
+      "alt": "Gaurish holding a certificate after the SIC Conclave",
+      "recommendedSection": "SIC Conclave",
+      "publishOnSite": true,
+      "notes": "Shown as evidence of the certificate and OMR 75 cash prize."
+    },
+    {
+      "file": "pic of my project along with other project which won eureka dev.png",
+      "mediaType": "image/png",
+      "category": "achievements",
+      "description": "Browser screenshot of an EurekaDev project gallery showing project listings.",
+      "alt": "Screenshot of an EurekaDev project gallery",
+      "recommendedSection": "EurekaDev evidence archive",
+      "publishOnSite": false,
+      "notes": "Not used publicly; browser tabs and unrelated browsing context are visible."
+    },
+    {
+      "file": "Random Pic Of Me Explaining To Judges During SIC Conclave.jpeg",
+      "mediaType": "image/jpeg",
+      "category": "achievements",
+      "description": "Gaurish speaking with event attendees beside a printed display at the SIC Conclave.",
+      "alt": "Gaurish explaining a project to event attendees at the SIC Conclave",
+      "recommendedSection": "SIC Conclave",
+      "publishOnSite": true,
+      "notes": "Included in the SIC Conclave photo archive at Gaurish's request."
+    },
+    {
+      "file": "This year Techathon 2026.jpg",
+      "mediaType": "image/jpeg",
+      "category": "competitions",
+      "description": "Students at the 2026 Indian School Muscat Techathon, where AETHER was presented.",
+      "alt": "Students at the 2026 Indian School Muscat Techathon",
+      "recommendedSection": "Indian School Muscat Techathon 2026 / AETHER",
+      "publishOnSite": true,
+      "notes": "Used only in the 2026 Techathon entry; the event image is not used to represent Techathon 2025."
+    },
+    {
+      "file": "Winning Prizes List Of Eureka Dev.png",
+      "mediaType": "image/png",
+      "category": "achievements",
+      "description": "Screenshot of a prize list stating third place in the Research track and $582 in non-cash prizes.",
+      "alt": "EurekaDev prize list showing third place and a $582 non-cash prize value",
+      "recommendedSection": "EurekaDev evidence archive",
+      "publishOnSite": true,
+      "notes": "Shown in the EurekaDev event section as prize information, not presented as a certificate."
+    },
+    {
+      "file": "ClassEcho-cover.png",
+      "mediaType": "image/png",
+      "category": "projects",
+      "description": "A concept illustration of a classroom device with a camera, microphone, and cloud connection.",
+      "alt": "ClassEcho concept illustration: a classroom device with a camera, microphone, and cloud connection",
+      "recommendedSection": "ClassEcho cover",
+      "publishOnSite": true,
+      "notes": "Supplied by Gaurish for the ClassEcho cover image; illustrative concept art, not a photograph of a built device."
+    },
+    {
+      "file": "Gaurish At Skill Expo 2025.png",
+      "mediaType": "image/png",
+      "category": "achievements",
+      "description": "Gaurish presenting at Skill Expo 2025.",
+      "alt": "Gaurish presenting at Skill Expo 2025",
+      "recommendedSection": "Skill Expo 2025",
+      "publishOnSite": true,
+      "notes": "Added to the Skill Expo entry at Gaurish's request."
+    },
+    {
+      "file": "EurekaDev-AETHER-gallery.png",
+      "mediaType": "image/png",
+      "category": "achievements",
+      "description": "A crop of the AETHER project card from the EurekaDev gallery, excluding browser controls.",
+      "alt": "AETHER project card in the EurekaDev gallery, marked as a winner",
+      "recommendedSection": "EurekaDev achievement",
+      "publishOnSite": true,
+      "notes": "Cropped from the supplied browser screenshot to remove browser chrome and unrelated browsing context."
+    },
+    {
+      "file": "Digital Copy Of AETHER in Newspaper.png",
+      "mediaType": "image/png",
+      "category": "press",
+      "description": "Digital copy of the Muscat Daily feature about AETHER.",
+      "alt": "Digital copy of the Muscat Daily feature about AETHER",
+      "recommendedSection": "AETHER newspaper feature",
+      "publishOnSite": true,
+      "notes": "Shown with the linked online article; the online publication date is 26 September 2026."
+    },
+    {
+      "file": "Real pic Of AETHER in Newspaper.png",
+      "mediaType": "image/png",
+      "category": "press",
+      "description": "Photograph of the printed Muscat Daily page featuring AETHER.",
+      "alt": "Photograph of the printed Muscat Daily page featuring AETHER",
+      "recommendedSection": "AETHER newspaper feature",
+      "publishOnSite": true,
+      "notes": "Printed edition is dated Sunday, 27 September 2026."
+    }
+  ]
+}
